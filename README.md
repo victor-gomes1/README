@@ -23,6 +23,6 @@ _Issue_: Uma tarefa, bug ou solicitação de melhoria registrada no repositório
 
   ----------------------------------------------------------------------------------------------------------
 
-Perfil - Gerador de Markdown: https://rahuldkjain.github.io/gh-profile-readme-generator/ 
+[Perfil - Gerador de Markdown](https://rahuldkjain.github.io/gh-profile-readme-generator/) 
 
-Guia Markdown Github: https://github.com/mende1/guia-definitivo-de-markdown 
+[Guia Markdown Github](https://github.com/mende1/guia-definitivo-de-markdown) 
